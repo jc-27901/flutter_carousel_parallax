@@ -1,7 +1,7 @@
 name: flutter_carousel_parallax
 description: "A new Flutter project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/jc-27901/flutter_carousel_parallax
 
 environment:
   sdk: ^3.5.4
